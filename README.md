@@ -27,3 +27,7 @@ Different flags exists to run the program
 - ```-d <folder>``` establishes the folder where the program will start running
 - ```-m <height>``` establishes the height of the directory tree the program will explore to find the palindromes
 - ```-f``` establishes that the name of the files are taken in consideration
+
+## Authors
+- Daniel Rodriguez
+- Jaqueline Farrach
